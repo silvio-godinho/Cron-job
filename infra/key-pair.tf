@@ -1,0 +1,6 @@
+resource "aws_key_pair" "My-key" {
+
+  key_name   = "ubuntu-ssh"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCqp115LtjjWX59YPcqZ6GC+lQLqj6IZscoc2imJD4A4TK/oYtOzq4qXHxvNqj8oQ4tF9O4V8Uk2APQ9BCSSERRH07NDxIydfU2PomBjo4bERaK2zZ0Di5NzQ+c9f5zS8ZY0yt2wm+2RzneWzTrXve/gwEf+Nwm5769l9jixGcohGHdvFzIONJ1zDDQMbiEjKqQJP/88eb01h+1luIKpywrPuvUIzRIXU7S384eGMb/tAcmJJXY5J2n42qDpiEamI/+/QkSZ2MDdOyg7GYvL5Ud39ICKaek8tM3y+4iFAYBff60fBIPXjPQJrk2+rRLrhOiL102MppIBNjmsdk3ke7ogzlg2DiiYcfa/S6vbd2qsFVu0Iyt7blUtkHTa55sCmv8XKmda24Q9A1qu32myGD37WdJotSfBSzFgELlSYBon2500c9s7vJbe1uI4PaDsCY+NxSujYNwBgI7xJdOLsA+cLwdDrl6MA3K2Thn5ZPFrLldTFnX6gjTBaSggWY5jxM="
+
+}
