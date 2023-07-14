@@ -1,3 +1,6 @@
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/silvio-godinho/cron-job/badge)](https://securityscorecards.dev/viewer/?uri=github.com/silvio-godinho/cron-job)
+
+
 # Cron-job
  
 Aplicação feita com nodejs, utilizando as biblioteca do node-cron e fs, funcionando da seguinte maneira: a cada hora é gerado um arquivo txt com a hora da sua criação e o mesmo é enviado para um bucket S3 dentro da AWS, utilizando a biblioteca aws-sdk. A aplicação pode ser rodada localmente através de um contêiner, dentro do projeto temos as dependências necessárias. Para subir a aplicação localmente use o seguinte comando:
@@ -33,4 +36,3 @@ Tutorial de como usar o docker-machine para deploy da aplicação:
 
 https://www.youtube.com/watch?v=kqBCHYf_adA
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/silvio-godinho/cron-job/badge)](https://securityscorecards.dev/viewer/?uri=github.com/silvio-godinho/cron-job)
