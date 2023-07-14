@@ -32,3 +32,5 @@ https://docker-docs.netlify.app/machine/install-machine/
 Tutorial de como usar o docker-machine para deploy da aplicação:
 
 https://www.youtube.com/watch?v=kqBCHYf_adA
+
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{silvio-godinho}/{cron-job}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
